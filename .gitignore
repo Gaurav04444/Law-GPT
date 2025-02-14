@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+.venv/
+
+# Project specific
+chroma_db_legal/
+.pytest_cache/
+
+# IDE
+.vscode/
+*.swp
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
